@@ -8,4 +8,4 @@ WORKBOOK_INVESTMENT_SHEET='Investment'
 #Hardcoded
 TOTAL_MONEY_PER_TRADE = 10000
 
-
+PLACE_GTT_ORDERS = 'No'  # Set to 'Yes' to enable placing GTT orders, set to 'No' to disable
